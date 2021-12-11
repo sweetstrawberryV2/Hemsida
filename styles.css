@@ -33,7 +33,7 @@ h2 {                                  /* Titel */
 }
 
 .waiting {
-    height: 5rem;
+    height: 50rem;
     padding: 2rem;
     flex-direction: row;
 }
