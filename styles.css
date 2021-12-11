@@ -36,3 +36,8 @@ h2 {                                  /* Titel */
     height: 50rem;
     flex-direction: row;
 }
+
+.pic {
+    height: 50rem;
+    flex-direction: row;
+}
