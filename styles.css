@@ -13,7 +13,7 @@ h2 {                                  /* Titel */
     color: rgb(240, 170, 40);
 }
 .coming-soon {
-    min-height: 10vh;
+    min-height: 100vh;
     display: flex;
     align-items: center;
     flex-direction: column;
