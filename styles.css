@@ -35,7 +35,7 @@ h2 {                                  /* Titel */
 .hour,
 .minute,
 .second{
-    font-size: 2rem;
+    font-size: 4rem;
     color: wheat;
 }
 
