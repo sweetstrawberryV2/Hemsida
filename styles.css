@@ -33,13 +33,13 @@ h2 {                                  /* Titel */
 }
 
 .waiting {
-    display: flex;
+    justify-content: center;
     height: 50rem;
     flex-direction: row;
 }
 
 .pic {
-    display: flex;
+    justify-content: center;
     height: 50rem;
     flex-direction: row;
 }
