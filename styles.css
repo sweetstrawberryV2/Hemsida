@@ -8,7 +8,8 @@ body{
 }
 h2 {                                  /* Titel */
     font-size: 5rem;
-    font-weight: bold;           
+    font-weight: bold; 
+    text-align: center;          
     padding: 3rem;                    /* Mellanrum mellan titeln och countdown */
     color: rgb(240, 170, 40);
 }
@@ -34,7 +35,7 @@ h2 {                                  /* Titel */
 .hour,
 .minute,
 .second{
-    font-size: 3rem;
+    font-size: 2rem;
     color: wheat;
 }
 
