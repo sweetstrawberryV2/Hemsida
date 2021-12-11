@@ -24,13 +24,13 @@ h2 {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    color: wheat;
 }
 .day,
 .hour,
 .minute,
 .second{
     font-size: 3rem;
+    color: wheat;
 }
 
 .waiting {
