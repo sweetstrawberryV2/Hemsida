@@ -23,7 +23,7 @@ h2 {                                  /* Titel */
 }
 .pics{
     flex-direction: row;
-    padding: 3rem;
+    padding: 2rem;
 }
 .countdown {
     display: flex;
