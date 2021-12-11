@@ -35,9 +35,5 @@ h2 {                                  /* Titel */
 .waiting {
     height: 50rem;
     padding: 2rem;
-}
-
-.pic {
-    height: 50rem;
-    padding: 2rem;
+    flex-direction: row;
 }
