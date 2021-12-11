@@ -37,3 +37,16 @@ h2 {                                  /* Titel */
     color: wheat;
 }
 
+.waiting {
+    justify-content: center;
+    align-items: center;
+    height: 25rem;
+    flex-direction: row;
+}
+
+.pic {
+    justify-content: center;
+    align-items: center;
+    height: 25rem;
+    flex-direction: row;
+}
