@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: black;
 }
 body{
     font-family: "Lato", sans-serif;
@@ -23,6 +24,7 @@ h2 {
     display: flex;
     justify-content: space-around;
     text-align: center;
+    color: wheat;
 }
 .day,
 .hour,
