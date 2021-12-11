@@ -7,7 +7,7 @@ body{
     font-family: "Lato", sans-serif;
 }
 h2 {                                  /* Titel */
-    font-size: 5rem;
+    font-size: 3rem;
     font-weight: bold;           
     padding: 5rem;                    /* Mellanrum mellan titeln och countdown */
     color: rgb(240, 170, 40);
