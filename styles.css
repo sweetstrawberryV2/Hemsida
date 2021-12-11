@@ -8,9 +8,8 @@ body{
 }
 h2 {                                  /* Titel */
     font-size: 5rem;
-    font-weight: bold;    
-    align-items: center;        
-    padding: 3rem;                    /* Mellanrum mellan titeln och countdown */
+    font-weight: bold;           
+    padding: 5rem;                    /* Mellanrum mellan titeln och countdown */
     color: rgb(240, 170, 40);
 }
 .coming-soon {
