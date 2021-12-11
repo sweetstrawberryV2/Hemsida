@@ -14,13 +14,13 @@ h2 {                                  /* Titel */
 }
 .coming-soon {
     min-height: 100vh;
-    /*display: flex;*/
+    display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
 }
 .countdown {
-    /*display: flex;*/
+    display: flex;
     justify-content: space-evenly;
     text-align: center;
 }
