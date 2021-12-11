@@ -46,7 +46,7 @@ h2 {                                  /* Titel */
 }
 
 .pic {
-    justify-content: center;
+    
     align-items: center;
     height: 25rem;
     flex-direction: row;
